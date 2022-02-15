@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Nnoko110
+- 👀 I’m interested in anything ...No
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+<!---
+Nnoko110/Nnoko110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
